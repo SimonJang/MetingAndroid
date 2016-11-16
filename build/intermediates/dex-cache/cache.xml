@@ -3,24 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_a3a17fd6031ae72322ca01367e87a0fdd74d0690/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ed71d810f2b80aaf1354bcd28f1f4cf0fe8c2836/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -39,57 +21,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_62b1463a3c89c9d6795316692039dd276b39ed8c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_580b5ca55f609ac8b5afb852513b46540cd72a7f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
         <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ec5770e7ddbd83b9d3be71a6d64d5d0fd1cd38ff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_165a82c154a71dd4d8371ec3c07aa35b8f45f91e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_c4ca01635482c987b416ebf4e7afecabf6081f6b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
-        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_8d649e31c28b973f552bd112d284320d0de9738f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -111,21 +48,93 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3f0c7df8198cef72e6297ae25489a48ff1af6bd3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
         <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_cc1682cc44eb42018ca254b1fa49e11544fd5ab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_284d5906bd6623e576ce7131310c1eecca38f413/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simonjang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0f86cb93d4432512ce0ee16435b5c2c525532736/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ed71d810f2b80aaf1354bcd28f1f4cf0fe8c2836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_b29c68f0b2bac66c61d7e2a96bace059f3e1ebd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_62b1463a3c89c9d6795316692039dd276b39ed8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_580b5ca55f609ac8b5afb852513b46540cd72a7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_165a82c154a71dd4d8371ec3c07aa35b8f45f91e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_c4ca01635482c987b416ebf4e7afecabf6081f6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3f0c7df8198cef72e6297ae25489a48ff1af6bd3/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -147,12 +156,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_284d5906bd6623e576ce7131310c1eecca38f413/classes.dex" />
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_8ea12ba67396b18f2da544277b47034a7af28f6a/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -180,15 +189,6 @@
         revision="24.0.3"
         sha1="1ca7acc2f425740d0546b69badab2a80dd73100a">
         <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3838511ff8f97e5780fa5a7da08989c4c3cec84f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/simonjang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.3"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/simonjang/Desktop/Android/AndroidMeting/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0f86cb93d4432512ce0ee16435b5c2c525532736/classes.dex" />
     </item>
 
 </items>

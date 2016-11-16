@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Meting tool</string>
     <string name="uitleg_title">Werking</string>
-    <string name="uitleg">(Tijdelijk)&#xD;&#xA;De gebruiker kan in dit scherm een keuze maken tussen de verschillende vormen om zijn data in te geven.</string>
+    <string name="test">TEST</string>
+    <string name="uitleg">(Tijdelijk)\nDe gebruiker kan in dit scherm een keuze maken tussen de verschillende vormen om zijn data in te geven.</string>
     <string name="collapsing_toolbar">Meting Applicatie</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
